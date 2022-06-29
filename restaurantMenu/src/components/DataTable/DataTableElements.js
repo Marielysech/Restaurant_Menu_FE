@@ -13,7 +13,6 @@ export const TableContainer = styled.table`
     //TABLE HEAD
 
 export const TableHead = styled.thead`   
-    /* padding-bottom: 2rem; */
 
 `
     //TABLE BODY
@@ -28,26 +27,36 @@ export const TableRow = styled.tr`
     flex-direction: row;
     justify-content: space-between;
     width: 100%;    
+    padding: 0.3rem 0;
 `
 
 //DATA
 
-    //HEAD
+    //SECTION TITLE
 
 export const LineTitle = styled.th`
-display: flex;
-flex-direction: column;
-margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0.5rem;
+    font-family: 'IBM Plex Serif', serif;
+    font-style: italic;
+    color: var(--green);
+    font-size: 25px;
+
+
 ` 
-    //ITEMS
+    //SECTION ITEMS
 
 
 export const TableItem = styled.td`
-   font-size: 20px;
+   font-size: 18px;
    text-align: left;
 ` 
 
 export const TablePrice = styled.td`
     font-size: 15px;
+    font-weight: 400;
+    padding: 0 0.5rem;
+    align-items: baseline;
 
 ` 
