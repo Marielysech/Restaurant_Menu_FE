@@ -1,78 +1,96 @@
 [
     {
-        "sectionTitle" : "" ,
+        "sectionTitle" : "Breakfast" ,
         "items": [
             {
-                "name": "",
-                "price": ""
+                "name": "Croissant",
+                "price": "2.5"
             },
             {
-                "name": "",
-                "price": ""
+                "name": "Pain au chocolat",
+                "price": "3"
             },
             {
-                "name": "",
-                "price": ""
+                "name": "Kouign Amann",
+                "price": "3"
             },
             {
-                "name": "",
-                "price": ""
-            },
-            {
-                "name": "",
-                "price": ""
+                "name": "Pie of the day",
+                "price": "2.5"
             }
         ]
 
     },
     {
-        "sectionTitle" : "" ,
+        "sectionTitle" : "Bowls & Pancakes" ,
         "items": [
             {
-                "name": "",
-                "price": ""
+                "name": "Overnight oats, avena milk, pear, peanut butter and homemade granola",
+                "price": "5.7"
             },
             {
-                "name": "",
-                "price": ""
+                "name": "Yogourt, fruits, peanut butter, jam and homemade granola",
+                "price": "5.7"
             },
             {
-                "name": "",
-                "price": ""
+                "name": "Ricotta pancakes with lemon, butter and almonds",
+                "price": "5.5"
             },
             {
-                "name": "",
-                "price": ""
-            },
-            {
-                "name": "",
-                "price": ""
+                "name": "Avena pancakes, banana and pecans",
+                "price": "6"
             }
         ]
 
     },
     {
-        "sectionTitle" : "" ,
+        "sectionTitle" : "Toasts" ,
         "items": [
             {
-                "name": "",
-                "price": ""
+                "name": "Bread from MasaMadre, tomatoe and olive oil AOVE",
+                "price": "3"
             },
             {
-                "name": "",
-                "price": ""
+                "name": "Bread from MasaMadre, butter and homemade jam",
+                "price": "4"
             },
             {
-                "name": "",
-                "price": ""
+                "name": "Brioche, ricotta and homemade jam",
+                "price": "4"
             },
             {
-                "name": "",
-                "price": ""
+                "name": "Brioche, homemade peanut butter, jam and pistacho",
+                "price": "5.5"
+            }
+        ]
+
+    },
+    {
+        "sectionTitle" : "Sandwiches & other" ,
+        "items": [
+            {
+                "name": "Pastrami Bikini, tallegio and truffle oil",
+                "price": "6"
             },
             {
-                "name": "",
-                "price": ""
+                "name": "Low temperature egg with bread stick, comte and pastrami",
+                "price": "4.5"
+            },
+            {
+                "name": "Sramble eggs with caccio e pepe sauce brioche rolls",
+                "price": "7.5"
+            },
+            {
+                "name": "Seed bread with goat cheese spread, edamame and pecans",
+                "price": "7.5"
+            },
+            {
+                "name": "Arepa, Halloumi, tomatoe and garlic spread and avocado",
+                "price": "7.5"
+            },
+            {
+                "name": "Foccacia with burrata and roast cherry tomatoes",
+                "price": "8.5"
             }
         ]
 

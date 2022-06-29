@@ -1,17 +1,15 @@
 import './App.css';
-import MenuDataTable from '../components/MenuDataTable'
-import MenuLabel from '../components/MenuLabel'
+import DataTable from '../components/DataTable/DataTable'
 import { MenuContainer, MenuTitle } from './appElements';
+import Label from '../components/Label/Label';
 
 function App() {
   return (
     <div className="appContainer">
       <MenuContainer>
-        <MenuTitle></MenuTitle>
-        <MenuDataTable>
-        </MenuDataTable>
-        <MenuLabel />
-
+        <MenuTitle>Etual Café</MenuTitle>
+        <DataTable />
+        <Label/>
       </MenuContainer>
     </div>
   );

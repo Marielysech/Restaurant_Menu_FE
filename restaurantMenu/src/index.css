@@ -1,5 +1,5 @@
 :root {
-  --mainBlue: #60749A;
+  --mainBlue: #0d45ae;
   --yellowOrange: #E0A741;
   --green: #5E8C61;
   --ligthGreen: #E1E4D3;
@@ -22,10 +22,8 @@ body {
   background-size: fill ;
   max-width: 100%;
   background-repeat: no-repeat;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
 

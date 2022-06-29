@@ -14,7 +14,8 @@ export const MenuContainer = styled.button`
 `;
 
 export const MenuTitle = styled.h1`
-
-
+    color: var(--mainBlue);
+    font-family: 'IBM Plex Serif', serif;
+    font-style: italic;
 
 `
